@@ -1,0 +1,11 @@
+debug/ledindicator.o
+debug/main.o
+debug/networkprotocol.o
+debug/server.o
+debug/websocketmanager.o
+debug/websocketserver.o
+debug/qrc_resources.o
+debug/moc_ledindicator.o
+debug/moc_server.o
+debug/moc_websocketmanager.o
+debug/moc_websocketserver.o

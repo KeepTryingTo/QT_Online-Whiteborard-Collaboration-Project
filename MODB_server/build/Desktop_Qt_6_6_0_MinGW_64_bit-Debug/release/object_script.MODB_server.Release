@@ -1,0 +1,11 @@
+release/ledindicator.o
+release/main.o
+release/networkprotocol.o
+release/server.o
+release/websocketmanager.o
+release/websocketserver.o
+release/qrc_resources.o
+release/moc_ledindicator.o
+release/moc_server.o
+release/moc_websocketmanager.o
+release/moc_websocketserver.o
